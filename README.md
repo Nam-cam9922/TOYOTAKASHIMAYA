@@ -1,5 +1,5 @@
 # Sàn Nguồn Hàng Ô Tô
 
-Web hỗ trợ tìm nhà cung cấp linh kiện ô tô tại Việt Nam, so báo giá và lập kế hoạch cấp hàng. Đồ án Nhóm 6, môn Quản trị thu mua, UTH. Không phải trang của Toyota.
+Web tìm nhà cung cấp linh kiện ô tô tại Việt Nam, gửi yêu cầu báo giá và lập kế hoạch thu mua (chọn bộ chỉ tiêu, lọc 2 vòng, chia đơn hàng, tính hàng dự phòng).
 
-Nội dung web đã được mã hóa. Cần mã truy cập do nhóm cung cấp mới mở được. Web không lưu mã và không lưu dữ liệu người dùng nhập, đóng tab là xóa.
+Dữ liệu tổng hợp từ danh bạ JETRO, danh sách nhà cung cấp Toyota và website công ty. Web không liên kết với Toyota, JETRO hay các công ty trong danh sách. Dữ liệu bạn nhập chỉ lưu trong trình duyệt của bạn.
